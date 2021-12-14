@@ -1,0 +1,17 @@
+{
+    "name": "spine-unity-editor",
+    "references": [
+        "spine-unity",
+        "spine-timeline"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
