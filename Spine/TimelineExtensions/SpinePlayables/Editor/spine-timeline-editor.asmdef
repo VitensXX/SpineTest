@@ -1,0 +1,22 @@
+{
+    "name": "spine-timeline-editor",
+    "rootNamespace": "",
+    "references": [
+        "spine-unity",
+        "spine-unity-editor",
+        "spine-timeline",
+        "Unity.Timeline",
+        "Unity.Timeline.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
